@@ -1,0 +1,10 @@
+[book]
+title = "Ariadne's Thread"
+description = "Research and brainstorming on a find-my-way-back thread for immersive simulations."
+authors = ["Jon"]
+language = "en"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
