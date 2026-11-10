@@ -8,6 +8,10 @@ It collects what is already known (VR research, psychology, security, cave divin
 
 ## Read it
 
+Online: **<https://youngmoolahbaby.github.io/ariadne-thread/>** (rebuilt on every push to `main`).
+
+Locally:
+
 ```sh
 cargo install mdbook   # once
 mdbook serve --open    # live preview at http://localhost:3000
@@ -29,3 +33,7 @@ mdbook build           # static site in ./book
 - New idea: copy the card in `src/appendix/idea-template.md` into the right `src/brainstorm/ideas-*.md` page, then add a row to `src/brainstorm/comparison.md`.
 - New source: add it to `src/appendix/bibliography.md` and note it in `src/appendix/research-log.md`.
 - Mark anything unverified or speculative as such.
+
+## License
+
+The text of this book is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/); see [`LICENSE`](LICENSE). You may share and adapt it for any purpose, as long as you give credit. Quoted material and cited works remain under their own terms.

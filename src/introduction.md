@@ -48,3 +48,5 @@ This is the most important rule in the book, and most of the hard problems follo
 - The [research log](appendix/research-log.md) records what was searched and when, so later passes can pick up where earlier ones stopped.
 
 *Started 10 November 2026. A living notebook, not a finished argument.*
+
+*Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source on [GitHub](https://github.com/YoungMoolahBaby/ariadne-thread).*

@@ -8,3 +8,6 @@ src = "src"
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "navy"
+site-url = "/ariadne-thread/"
+git-repository-url = "https://github.com/YoungMoolahBaby/ariadne-thread"
+edit-url-template = "https://github.com/YoungMoolahBaby/ariadne-thread/edit/main/{path}"
